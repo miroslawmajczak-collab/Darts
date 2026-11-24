@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=FLIGHT Kiosk
+Exec=sh /opt/flight/deploy/kiosk.sh
+Terminal=false
+X-GNOME-Autostart-enabled=true
